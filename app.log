@@ -1,0 +1,479 @@
+2025-08-07 14:01:32,978 - INFO - Firestorm: Current count: 426287, Last count: 422561, Need update: True
+2025-08-07 14:01:33,006 - INFO - Successfully saved entry to CSV: {'play_count': '426287', 'timestamp': '2025-08-07 19:31:31 IST'}
+2025-08-07 14:01:33,006 - INFO - Checking Hungry Cheetah...
+2025-08-07 14:01:33,007 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 14:01:33,814 - INFO - Found play count in song info (new format): 8258631
+2025-08-07 14:01:33,816 - INFO - Hungry Cheetah: Current count: 8258631, Last count: 8257781, Need update: True
+2025-08-07 14:01:33,816 - INFO - Successfully saved entry to CSV: {'play_count': '8258631', 'timestamp': '2025-08-07 19:31:31 IST'}
+2025-08-07 14:15:51,558 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4077.5 minutes
+2025-08-07 14:15:51,692 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3039.9 minutes
+2025-08-07 14:15:52,171 - INFO - 127.0.0.1 - - [07/Aug/2025 14:15:52] "GET / HTTP/1.1" 200 -
+2025-08-07 14:15:53,381 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4077.5 minutes
+2025-08-07 14:15:53,437 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3039.9 minutes
+2025-08-07 14:15:53,563 - INFO - 127.0.0.1 - - [07/Aug/2025 14:15:53] "GET / HTTP/1.1" 200 -
+2025-08-07 14:16:33,825 - INFO - Starting update check for all songs...
+2025-08-07 14:16:33,828 - INFO - Checking Firestorm...
+2025-08-07 14:16:33,829 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 14:16:35,578 - INFO - Found play count in album info: 427828
+2025-08-07 14:16:35,578 - INFO - Firestorm: Current count: 427828, Last count: 426287, Need update: True
+2025-08-07 14:16:35,580 - INFO - Successfully saved entry to CSV: {'play_count': '427828', 'timestamp': '2025-08-07 19:46:33 IST'}
+2025-08-07 14:16:35,580 - INFO - Checking Hungry Cheetah...
+2025-08-07 14:16:35,580 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 14:16:36,214 - INFO - Found play count in song info (new format): 8259015
+2025-08-07 14:16:36,215 - INFO - Hungry Cheetah: Current count: 8259015, Last count: 8258631, Need update: True
+2025-08-07 14:16:36,216 - INFO - Successfully saved entry to CSV: {'play_count': '8259015', 'timestamp': '2025-08-07 19:46:33 IST'}
+2025-08-07 14:30:54,853 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4092.5 minutes
+2025-08-07 14:30:54,883 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3054.9 minutes
+2025-08-07 14:30:55,188 - INFO - 127.0.0.1 - - [07/Aug/2025 14:30:55] "GET / HTTP/1.1" 200 -
+2025-08-07 14:30:55,224 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4092.5 minutes
+2025-08-07 14:30:55,238 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3054.9 minutes
+2025-08-07 14:30:55,325 - INFO - 127.0.0.1 - - [07/Aug/2025 14:30:55] "GET / HTTP/1.1" 200 -
+2025-08-07 14:31:36,259 - INFO - Starting update check for all songs...
+2025-08-07 14:31:36,272 - INFO - Checking Firestorm...
+2025-08-07 14:31:36,273 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 14:31:36,997 - INFO - Found play count in album info: 429212
+2025-08-07 14:31:36,998 - INFO - Firestorm: Current count: 429212, Last count: 427828, Need update: True
+2025-08-07 14:31:37,002 - INFO - Successfully saved entry to CSV: {'play_count': '429212', 'timestamp': '2025-08-07 20:01:36 IST'}
+2025-08-07 14:31:37,003 - INFO - Checking Hungry Cheetah...
+2025-08-07 14:31:37,003 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 14:31:37,458 - INFO - Found play count in song info (new format): 8259396
+2025-08-07 14:31:37,459 - INFO - Hungry Cheetah: Current count: 8259396, Last count: 8259015, Need update: True
+2025-08-07 14:31:37,460 - INFO - Successfully saved entry to CSV: {'play_count': '8259396', 'timestamp': '2025-08-07 20:01:36 IST'}
+2025-08-07 14:41:35,616 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4107.6 minutes
+2025-08-07 14:41:35,652 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3070.0 minutes
+2025-08-07 14:41:35,872 - INFO - 127.0.0.1 - - [07/Aug/2025 14:41:35] "GET / HTTP/1.1" 200 -
+2025-08-07 14:45:56,888 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4107.6 minutes
+2025-08-07 14:45:56,918 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3070.0 minutes
+2025-08-07 14:45:57,085 - INFO - 127.0.0.1 - - [07/Aug/2025 14:45:57] "GET / HTTP/1.1" 200 -
+2025-08-07 14:46:37,491 - INFO - Starting update check for all songs...
+2025-08-07 14:46:37,494 - INFO - Checking Firestorm...
+2025-08-07 14:46:37,495 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 14:46:38,456 - INFO - Found play count in album info: 430573
+2025-08-07 14:46:38,457 - INFO - Firestorm: Current count: 430573, Last count: 429212, Need update: True
+2025-08-07 14:46:38,461 - INFO - Successfully saved entry to CSV: {'play_count': '430573', 'timestamp': '2025-08-07 20:16:37 IST'}
+2025-08-07 14:46:38,461 - INFO - Checking Hungry Cheetah...
+2025-08-07 14:46:38,461 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 14:46:39,101 - INFO - Found play count in song info (new format): 8259781
+2025-08-07 14:46:39,102 - INFO - Hungry Cheetah: Current count: 8259781, Last count: 8259396, Need update: True
+2025-08-07 14:46:39,103 - INFO - Successfully saved entry to CSV: {'play_count': '8259781', 'timestamp': '2025-08-07 20:16:37 IST'}
+2025-08-07 14:56:37,355 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4122.6 minutes
+2025-08-07 14:56:37,399 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3085.0 minutes
+2025-08-07 14:56:39,202 - INFO - 127.0.0.1 - - [07/Aug/2025 14:56:39] "GET / HTTP/1.1" 200 -
+2025-08-07 15:00:58,526 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4122.6 minutes
+2025-08-07 15:00:58,581 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3085.0 minutes
+2025-08-07 15:00:58,796 - INFO - 127.0.0.1 - - [07/Aug/2025 15:00:58] "GET / HTTP/1.1" 200 -
+2025-08-07 15:01:39,207 - INFO - Starting update check for all songs...
+2025-08-07 15:01:39,218 - INFO - Checking Firestorm...
+2025-08-07 15:01:39,220 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 15:01:40,005 - INFO - Found play count in album info: 431988
+2025-08-07 15:01:40,006 - INFO - Firestorm: Current count: 431988, Last count: 430573, Need update: True
+2025-08-07 15:01:40,010 - INFO - Successfully saved entry to CSV: {'play_count': '431988', 'timestamp': '2025-08-07 20:31:39 IST'}
+2025-08-07 15:01:40,010 - INFO - Checking Hungry Cheetah...
+2025-08-07 15:01:40,011 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 15:01:40,924 - INFO - Found play count in song info (new format): 8260123
+2025-08-07 15:01:40,924 - INFO - Hungry Cheetah: Current count: 8260123, Last count: 8259781, Need update: True
+2025-08-07 15:01:40,925 - INFO - Successfully saved entry to CSV: {'play_count': '8260123', 'timestamp': '2025-08-07 20:31:39 IST'}
+2025-08-07 15:11:40,647 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4137.6 minutes
+2025-08-07 15:11:40,682 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3100.0 minutes
+2025-08-07 15:11:40,838 - INFO - 127.0.0.1 - - [07/Aug/2025 15:11:40] "GET / HTTP/1.1" 200 -
+2025-08-07 15:15:59,967 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4137.6 minutes
+2025-08-07 15:15:59,997 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3100.0 minutes
+2025-08-07 15:16:00,396 - INFO - 127.0.0.1 - - [07/Aug/2025 15:16:00] "GET / HTTP/1.1" 200 -
+2025-08-07 15:16:41,020 - INFO - Starting update check for all songs...
+2025-08-07 15:16:41,094 - INFO - Checking Firestorm...
+2025-08-07 15:16:41,117 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 15:16:42,062 - INFO - Found play count in album info: 433392
+2025-08-07 15:16:42,065 - INFO - Firestorm: Current count: 433392, Last count: 431988, Need update: True
+2025-08-07 15:16:42,071 - INFO - Successfully saved entry to CSV: {'play_count': '433392', 'timestamp': '2025-08-07 20:46:40 IST'}
+2025-08-07 15:16:42,071 - INFO - Checking Hungry Cheetah...
+2025-08-07 15:16:42,071 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 15:16:42,604 - INFO - Found play count in song info (new format): 8260460
+2025-08-07 15:16:42,605 - INFO - Hungry Cheetah: Current count: 8260460, Last count: 8260123, Need update: True
+2025-08-07 15:16:42,607 - INFO - Successfully saved entry to CSV: {'play_count': '8260460', 'timestamp': '2025-08-07 20:46:40 IST'}
+2025-08-07 15:26:42,275 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4152.6 minutes
+2025-08-07 15:26:42,415 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3115.1 minutes
+2025-08-07 15:26:42,547 - INFO - 127.0.0.1 - - [07/Aug/2025 15:26:42] "GET / HTTP/1.1" 200 -
+2025-08-07 15:31:03,245 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4152.6 minutes
+2025-08-07 15:31:03,253 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3115.1 minutes
+2025-08-07 15:31:03,306 - INFO - 127.0.0.1 - - [07/Aug/2025 15:31:03] "GET / HTTP/1.1" 200 -
+2025-08-07 15:31:42,613 - INFO - Starting update check for all songs...
+2025-08-07 15:31:42,614 - INFO - Checking Firestorm...
+2025-08-07 15:31:42,616 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 15:31:43,541 - INFO - Found play count in album info: 434670
+2025-08-07 15:31:43,542 - INFO - Firestorm: Current count: 434670, Last count: 433392, Need update: True
+2025-08-07 15:31:43,544 - INFO - Successfully saved entry to CSV: {'play_count': '434670', 'timestamp': '2025-08-07 21:01:42 IST'}
+2025-08-07 15:31:43,545 - INFO - Checking Hungry Cheetah...
+2025-08-07 15:31:43,545 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 15:31:44,101 - INFO - Found play count in song info (new format): 8260791
+2025-08-07 15:31:44,102 - INFO - Hungry Cheetah: Current count: 8260791, Last count: 8260460, Need update: True
+2025-08-07 15:31:44,102 - INFO - Successfully saved entry to CSV: {'play_count': '8260791', 'timestamp': '2025-08-07 21:01:42 IST'}
+2025-08-07 15:32:13,211 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4167.6 minutes
+2025-08-07 15:32:13,249 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3130.1 minutes
+2025-08-07 15:32:13,458 - INFO - 127.0.0.1 - - [07/Aug/2025 15:32:13] "GET / HTTP/1.1" 200 -
+2025-08-07 15:32:15,747 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4167.6 minutes
+2025-08-07 15:32:15,755 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3130.1 minutes
+2025-08-07 15:32:15,885 - INFO - 127.0.0.1 - - [07/Aug/2025 15:32:15] "GET / HTTP/1.1" 200 -
+2025-08-07 15:46:04,466 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4167.6 minutes
+2025-08-07 15:46:04,498 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3130.1 minutes
+2025-08-07 15:46:04,610 - INFO - 127.0.0.1 - - [07/Aug/2025 15:46:04] "GET / HTTP/1.1" 200 -
+2025-08-07 15:46:44,126 - INFO - Starting update check for all songs...
+2025-08-07 15:46:44,129 - INFO - Checking Firestorm...
+2025-08-07 15:46:44,130 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 15:46:44,985 - INFO - Found play count in album info: 435913
+2025-08-07 15:46:44,990 - INFO - Firestorm: Current count: 435913, Last count: 434670, Need update: True
+2025-08-07 15:46:44,992 - INFO - Successfully saved entry to CSV: {'play_count': '435913', 'timestamp': '2025-08-07 21:16:44 IST'}
+2025-08-07 15:46:44,993 - INFO - Checking Hungry Cheetah...
+2025-08-07 15:46:44,993 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 15:46:45,857 - INFO - Found play count in song info (new format): 8261141
+2025-08-07 15:46:45,858 - INFO - Hungry Cheetah: Current count: 8261141, Last count: 8260791, Need update: True
+2025-08-07 15:46:45,858 - INFO - Successfully saved entry to CSV: {'play_count': '8261141', 'timestamp': '2025-08-07 21:16:44 IST'}
+2025-08-07 15:47:16,547 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4182.7 minutes
+2025-08-07 15:47:16,560 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3145.1 minutes
+2025-08-07 15:47:16,610 - INFO - 127.0.0.1 - - [07/Aug/2025 15:47:16] "GET / HTTP/1.1" 200 -
+2025-08-07 15:54:48,489 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4182.7 minutes
+2025-08-07 15:54:48,525 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3145.1 minutes
+2025-08-07 15:54:48,694 - INFO - 127.0.0.1 - - [07/Aug/2025 15:54:48] "GET / HTTP/1.1" 200 -
+2025-08-07 16:01:05,871 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4182.7 minutes
+2025-08-07 16:01:05,914 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3145.1 minutes
+2025-08-07 16:01:06,124 - INFO - 127.0.0.1 - - [07/Aug/2025 16:01:06] "GET / HTTP/1.1" 200 -
+2025-08-07 16:01:45,884 - INFO - Starting update check for all songs...
+2025-08-07 16:01:45,886 - INFO - Checking Firestorm...
+2025-08-07 16:01:45,887 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 16:01:46,598 - INFO - Found play count in album info: 437188
+2025-08-07 16:01:46,600 - INFO - Firestorm: Current count: 437188, Last count: 435913, Need update: True
+2025-08-07 16:01:46,605 - INFO - Successfully saved entry to CSV: {'play_count': '437188', 'timestamp': '2025-08-07 21:31:45 IST'}
+2025-08-07 16:01:46,605 - INFO - Checking Hungry Cheetah...
+2025-08-07 16:01:46,606 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 16:01:47,149 - INFO - Found play count in song info (new format): 8261425
+2025-08-07 16:01:47,150 - INFO - Hungry Cheetah: Current count: 8261425, Last count: 8261141, Need update: True
+2025-08-07 16:01:47,151 - INFO - Successfully saved entry to CSV: {'play_count': '8261425', 'timestamp': '2025-08-07 21:31:45 IST'}
+2025-08-07 16:30:21,763 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4197.7 minutes
+2025-08-07 16:30:22,204 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3160.1 minutes
+2025-08-07 16:30:22,341 - INFO - Starting update check for all songs...
+2025-08-07 16:30:22,407 - INFO - Checking Firestorm...
+2025-08-07 16:30:22,418 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 16:30:25,781 - INFO - 127.0.0.1 - - [07/Aug/2025 16:30:25] "GET / HTTP/1.1" 200 -
+2025-08-07 16:30:26,038 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4197.7 minutes
+2025-08-07 16:30:26,057 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3160.1 minutes
+2025-08-07 16:30:26,624 - INFO - 127.0.0.1 - - [07/Aug/2025 16:30:26] "GET / HTTP/1.1" 200 -
+2025-08-07 16:30:27,647 - INFO - Found play count in album info: 439163
+2025-08-07 16:30:27,654 - INFO - Firestorm: Current count: 439163, Last count: 437188, Need update: True
+2025-08-07 16:30:27,671 - INFO - Successfully saved entry to CSV: {'play_count': '439163', 'timestamp': '2025-08-07 22:00:22 IST'}
+2025-08-07 16:30:27,679 - INFO - Checking Hungry Cheetah...
+2025-08-07 16:30:27,680 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 16:30:28,759 - INFO - Found play count in song info (new format): 8262018
+2025-08-07 16:30:28,761 - INFO - Hungry Cheetah: Current count: 8262018, Last count: 8261425, Need update: True
+2025-08-07 16:30:28,767 - INFO - Successfully saved entry to CSV: {'play_count': '8262018', 'timestamp': '2025-08-07 22:00:22 IST'}
+2025-08-07 16:38:58,540 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4226.3 minutes
+2025-08-07 16:38:58,615 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3188.7 minutes
+2025-08-07 16:38:58,729 - INFO - 127.0.0.1 - - [07/Aug/2025 16:38:58] "GET / HTTP/1.1" 200 -
+2025-08-07 16:45:32,397 - INFO - Starting update check for all songs...
+2025-08-07 16:45:32,438 - INFO - Checking Firestorm...
+2025-08-07 16:45:32,441 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 16:45:33,556 - INFO - Found play count in album info: 440280
+2025-08-07 16:45:33,563 - INFO - Firestorm: Current count: 440280, Last count: 439163, Need update: True
+2025-08-07 16:45:33,583 - INFO - Successfully saved entry to CSV: {'play_count': '440280', 'timestamp': '2025-08-07 22:15:32 IST'}
+2025-08-07 16:45:33,589 - INFO - Checking Hungry Cheetah...
+2025-08-07 16:45:33,601 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 16:45:33,838 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4241.5 minutes
+2025-08-07 16:45:33,856 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3188.7 minutes
+2025-08-07 16:45:35,977 - INFO - 127.0.0.1 - - [07/Aug/2025 16:45:35] "GET / HTTP/1.1" 200 -
+2025-08-07 16:45:36,007 - INFO - Found play count in song info (new format): 8262323
+2025-08-07 16:45:36,008 - INFO - Hungry Cheetah: Current count: 8262323, Last count: 8262018, Need update: True
+2025-08-07 16:45:36,009 - INFO - Successfully saved entry to CSV: {'play_count': '8262323', 'timestamp': '2025-08-07 22:15:32 IST'}
+2025-08-07 16:54:00,436 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4241.5 minutes
+2025-08-07 16:54:00,473 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3203.9 minutes
+2025-08-07 16:54:00,585 - INFO - 127.0.0.1 - - [07/Aug/2025 16:54:00] "GET / HTTP/1.1" 200 -
+2025-08-07 17:00:36,032 - INFO - Starting update check for all songs...
+2025-08-07 17:00:36,052 - INFO - Checking Firestorm...
+2025-08-07 17:00:36,055 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 17:00:36,998 - INFO - Found play count in album info: 441723
+2025-08-07 17:00:37,003 - INFO - Firestorm: Current count: 441723, Last count: 440280, Need update: True
+2025-08-07 17:00:37,012 - INFO - Successfully saved entry to CSV: {'play_count': '441723', 'timestamp': '2025-08-07 22:30:36 IST'}
+2025-08-07 17:00:37,013 - INFO - Checking Hungry Cheetah...
+2025-08-07 17:00:37,013 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 17:00:37,504 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4256.5 minutes
+2025-08-07 17:00:37,515 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3203.9 minutes
+2025-08-07 17:00:37,614 - INFO - 127.0.0.1 - - [07/Aug/2025 17:00:37] "GET / HTTP/1.1" 200 -
+2025-08-07 17:00:37,656 - INFO - Found play count in song info (new format): 8262600
+2025-08-07 17:00:37,657 - INFO - Hungry Cheetah: Current count: 8262600, Last count: 8262323, Need update: True
+2025-08-07 17:00:37,659 - INFO - Successfully saved entry to CSV: {'play_count': '8262600', 'timestamp': '2025-08-07 22:30:36 IST'}
+2025-08-07 18:16:46,171 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4256.5 minutes
+2025-08-07 18:16:46,324 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3218.9 minutes
+2025-08-07 18:16:47,131 - INFO - 127.0.0.1 - - [07/Aug/2025 18:16:47] "GET / HTTP/1.1" 200 -
+2025-08-07 18:16:47,490 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4256.5 minutes
+2025-08-07 18:16:47,535 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3218.9 minutes
+2025-08-07 18:16:47,667 - INFO - 127.0.0.1 - - [07/Aug/2025 18:16:47] "GET / HTTP/1.1" 200 -
+2025-08-07 18:16:58,792 - INFO - Starting update check for all songs...
+2025-08-07 18:16:58,795 - INFO - Checking Firestorm...
+2025-08-07 18:16:58,797 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 18:17:00,045 - INFO - Found play count in album info: 446700
+2025-08-07 18:17:00,054 - INFO - Firestorm: Current count: 446700, Last count: 441723, Need update: True
+2025-08-07 18:17:00,062 - INFO - Successfully saved entry to CSV: {'play_count': '446700', 'timestamp': '2025-08-07 23:46:58 IST'}
+2025-08-07 18:17:00,064 - INFO - Checking Hungry Cheetah...
+2025-08-07 18:17:00,065 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 18:17:00,925 - INFO - Found play count in song info (new format): 8263813
+2025-08-07 18:17:00,925 - INFO - Hungry Cheetah: Current count: 8263813, Last count: 8262600, Need update: True
+2025-08-07 18:17:00,928 - INFO - Successfully saved entry to CSV: {'play_count': '8263813', 'timestamp': '2025-08-07 23:46:58 IST'}
+2025-08-07 20:05:19,311 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4333.0 minutes
+2025-08-07 20:05:19,504 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3295.4 minutes
+2025-08-07 20:05:20,835 - INFO - 127.0.0.1 - - [07/Aug/2025 20:05:20] "GET / HTTP/1.1" 200 -
+2025-08-07 20:05:21,064 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4333.0 minutes
+2025-08-07 20:05:21,085 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3295.4 minutes
+2025-08-07 20:05:21,265 - INFO - 127.0.0.1 - - [07/Aug/2025 20:05:21] "GET / HTTP/1.1" 200 -
+2025-08-07 20:05:33,349 - INFO - Starting update check for all songs...
+2025-08-07 20:05:33,361 - INFO - Checking Firestorm...
+2025-08-07 20:05:33,362 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 20:05:34,325 - INFO - Found play count in album info: 450313
+2025-08-07 20:05:34,328 - INFO - Firestorm: Current count: 450313, Last count: 446700, Need update: True
+2025-08-07 20:05:34,335 - INFO - Successfully saved entry to CSV: {'play_count': '450313', 'timestamp': '2025-08-08 01:35:33 IST'}
+2025-08-07 20:05:34,335 - INFO - Checking Hungry Cheetah...
+2025-08-07 20:05:34,335 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 20:05:34,823 - INFO - Found play count in song info (new format): 8264897
+2025-08-07 20:05:34,825 - INFO - Hungry Cheetah: Current count: 8264897, Last count: 8263813, Need update: True
+2025-08-07 20:05:34,827 - INFO - Successfully saved entry to CSV: {'play_count': '8264897', 'timestamp': '2025-08-08 01:35:33 IST'}
+2025-08-07 20:20:25,458 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4441.6 minutes
+2025-08-07 20:20:25,496 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3404.0 minutes
+2025-08-07 20:20:25,706 - INFO - 127.0.0.1 - - [07/Aug/2025 20:20:25] "GET / HTTP/1.1" 200 -
+2025-08-07 20:20:26,844 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4441.6 minutes
+2025-08-07 20:20:26,851 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3404.0 minutes
+2025-08-07 20:20:26,926 - INFO - 127.0.0.1 - - [07/Aug/2025 20:20:26] "GET / HTTP/1.1" 200 -
+2025-08-07 20:20:34,841 - INFO - Starting update check for all songs...
+2025-08-07 20:20:34,845 - INFO - Checking Firestorm...
+2025-08-07 20:20:34,847 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 20:20:35,602 - INFO - Found play count in album info: 450667
+2025-08-07 20:20:35,603 - INFO - Firestorm: Current count: 450667, Last count: 450313, Need update: True
+2025-08-07 20:20:35,604 - INFO - Successfully saved entry to CSV: {'play_count': '450667', 'timestamp': '2025-08-08 01:50:34 IST'}
+2025-08-07 20:20:35,604 - INFO - Checking Hungry Cheetah...
+2025-08-07 20:20:35,604 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 20:20:36,197 - INFO - Found play count in song info (new format): 8265014
+2025-08-07 20:20:36,198 - INFO - Hungry Cheetah: Current count: 8265014, Last count: 8264897, Need update: True
+2025-08-07 20:20:36,199 - INFO - Successfully saved entry to CSV: {'play_count': '8265014', 'timestamp': '2025-08-08 01:50:34 IST'}
+2025-08-07 20:35:27,264 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4456.6 minutes
+2025-08-07 20:35:27,286 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3419.0 minutes
+2025-08-07 20:35:27,419 - INFO - 127.0.0.1 - - [07/Aug/2025 20:35:27] "GET / HTTP/1.1" 200 -
+2025-08-07 20:35:27,433 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4456.6 minutes
+2025-08-07 20:35:27,449 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3419.0 minutes
+2025-08-07 20:35:27,489 - INFO - 127.0.0.1 - - [07/Aug/2025 20:35:27] "GET / HTTP/1.1" 200 -
+2025-08-07 20:35:36,205 - INFO - Starting update check for all songs...
+2025-08-07 20:35:36,206 - INFO - Checking Firestorm...
+2025-08-07 20:35:36,206 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 20:35:36,907 - INFO - Found play count in album info: 450999
+2025-08-07 20:35:36,909 - INFO - Firestorm: Current count: 450999, Last count: 450667, Need update: True
+2025-08-07 20:35:36,910 - INFO - Successfully saved entry to CSV: {'play_count': '450999', 'timestamp': '2025-08-08 02:05:36 IST'}
+2025-08-07 20:35:36,910 - INFO - Checking Hungry Cheetah...
+2025-08-07 20:35:36,910 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 20:35:37,488 - INFO - Found play count in song info (new format): 8265073
+2025-08-07 20:35:37,490 - INFO - Hungry Cheetah: Current count: 8265073, Last count: 8265014, Need update: True
+2025-08-07 20:35:37,490 - INFO - Successfully saved entry to CSV: {'play_count': '8265073', 'timestamp': '2025-08-08 02:05:36 IST'}
+2025-08-07 20:50:28,722 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4471.6 minutes
+2025-08-07 20:50:28,759 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3434.0 minutes
+2025-08-07 20:50:28,985 - INFO - 127.0.0.1 - - [07/Aug/2025 20:50:28] "GET / HTTP/1.1" 200 -
+2025-08-07 20:50:28,999 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4471.6 minutes
+2025-08-07 20:50:29,005 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3434.0 minutes
+2025-08-07 20:50:29,051 - INFO - 127.0.0.1 - - [07/Aug/2025 20:50:29] "GET / HTTP/1.1" 200 -
+2025-08-07 20:50:37,495 - INFO - Starting update check for all songs...
+2025-08-07 20:50:37,508 - INFO - Checking Firestorm...
+2025-08-07 20:50:37,509 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-07 20:50:38,269 - INFO - Found play count in album info: 451300
+2025-08-07 20:50:38,270 - INFO - Firestorm: Current count: 451300, Last count: 450999, Need update: True
+2025-08-07 20:50:38,273 - INFO - Successfully saved entry to CSV: {'play_count': '451300', 'timestamp': '2025-08-08 02:20:37 IST'}
+2025-08-07 20:50:38,273 - INFO - Checking Hungry Cheetah...
+2025-08-07 20:50:38,273 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-07 20:50:38,843 - INFO - Found play count in song info (new format): 8265151
+2025-08-07 20:50:38,843 - INFO - Hungry Cheetah: Current count: 8265151, Last count: 8265073, Need update: True
+2025-08-07 20:50:38,844 - INFO - Successfully saved entry to CSV: {'play_count': '8265151', 'timestamp': '2025-08-08 02:20:37 IST'}
+2025-08-08 04:27:53,768 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4486.6 minutes
+2025-08-08 04:27:53,859 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3449.1 minutes
+2025-08-08 04:27:54,340 - INFO - 127.0.0.1 - - [08/Aug/2025 04:27:54] "GET / HTTP/1.1" 200 -
+2025-08-08 04:27:54,873 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4486.6 minutes
+2025-08-08 04:27:54,903 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3449.1 minutes
+2025-08-08 04:27:54,975 - INFO - 127.0.0.1 - - [08/Aug/2025 04:27:54] "GET / HTTP/1.1" 200 -
+2025-08-08 04:27:57,688 - INFO - Starting update check for all songs...
+2025-08-08 04:27:57,693 - INFO - Checking Firestorm...
+2025-08-08 04:27:57,694 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 04:28:02,879 - INFO - Found play count in album info: 475776
+2025-08-08 04:28:02,882 - INFO - Firestorm: Current count: 475776, Last count: 451300, Need update: True
+2025-08-08 04:28:02,889 - INFO - Successfully saved entry to CSV: {'play_count': '475776', 'timestamp': '2025-08-08 09:57:57 IST'}
+2025-08-08 04:28:02,890 - INFO - Checking Hungry Cheetah...
+2025-08-08 04:28:02,892 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 04:28:03,507 - INFO - Found play count in song info (new format): 8271404
+2025-08-08 04:28:03,532 - INFO - Hungry Cheetah: Current count: 8271404, Last count: 8265151, Need update: True
+2025-08-08 04:28:03,539 - INFO - Successfully saved entry to CSV: {'play_count': '8271404', 'timestamp': '2025-08-08 09:57:57 IST'}
+2025-08-08 06:29:46,225 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4944.0 minutes
+2025-08-08 06:29:46,445 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3906.4 minutes
+2025-08-08 06:29:47,238 - INFO - 127.0.0.1 - - [08/Aug/2025 06:29:47] "GET / HTTP/1.1" 200 -
+2025-08-08 06:29:51,011 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -4944.0 minutes
+2025-08-08 06:29:51,045 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -3906.4 minutes
+2025-08-08 06:29:51,336 - INFO - 127.0.0.1 - - [08/Aug/2025 06:29:51] "GET / HTTP/1.1" 200 -
+2025-08-08 06:30:19,381 - INFO - Starting update check for all songs...
+2025-08-08 06:30:19,399 - INFO - Checking Firestorm...
+2025-08-08 06:30:19,400 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 06:30:20,281 - INFO - Found play count in album info: 488727
+2025-08-08 06:30:20,283 - INFO - Firestorm: Current count: 488727, Last count: 475776, Need update: True
+2025-08-08 06:30:20,291 - INFO - Successfully saved entry to CSV: {'play_count': '488727', 'timestamp': '2025-08-08 12:00:19 IST'}
+2025-08-08 06:30:20,292 - INFO - Checking Hungry Cheetah...
+2025-08-08 06:30:20,292 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 06:30:20,664 - INFO - Found play count in song info (new format): 8274670
+2025-08-08 06:30:20,666 - INFO - Hungry Cheetah: Current count: 8274670, Last count: 8271404, Need update: True
+2025-08-08 06:30:20,695 - INFO - Successfully saved entry to CSV: {'play_count': '8274670', 'timestamp': '2025-08-08 12:00:19 IST'}
+2025-08-08 06:35:42,827 - INFO - Starting update check for all songs...
+2025-08-08 06:35:42,830 - INFO - Checking Firestorm...
+2025-08-08 06:35:42,831 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 06:35:42,942 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.194.80:5000
+2025-08-08 06:35:42,942 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-08 06:35:42,944 - INFO -  * Restarting with stat
+2025-08-08 06:35:43,597 - INFO - Found play count in album info: 489196
+2025-08-08 06:35:43,599 - INFO - Firestorm: Current count: 489196, Last count: 488727, Need update: True
+2025-08-08 06:35:43,600 - INFO - Successfully saved entry to CSV: {'play_count': '489196', 'timestamp': '2025-08-08 12:05:42 IST'}
+2025-08-08 06:35:43,600 - INFO - Checking Hungry Cheetah...
+2025-08-08 06:35:43,600 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 06:35:44,094 - INFO - Found play count in song info (new format): 8274809
+2025-08-08 06:35:44,095 - INFO - Hungry Cheetah: Current count: 8274809, Last count: 8274670, Need update: True
+2025-08-08 06:35:44,096 - INFO - Successfully saved entry to CSV: {'play_count': '8274809', 'timestamp': '2025-08-08 12:05:42 IST'}
+2025-08-08 06:35:44,513 - INFO - Starting update check for all songs...
+2025-08-08 06:35:44,516 - INFO - Checking Firestorm...
+2025-08-08 06:35:44,516 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 06:35:44,538 - WARNING -  * Debugger is active!
+2025-08-08 06:35:44,601 - INFO -  * Debugger PIN: 713-080-389
+2025-08-08 06:35:44,951 - INFO - Found play count in album info: 489196
+2025-08-08 06:35:44,970 - INFO - Firestorm: Current count: 489196, Last count: 489196, Need update: True
+2025-08-08 06:35:44,994 - INFO - Successfully saved entry to CSV: {'play_count': '489196', 'timestamp': '2025-08-08 12:05:44 IST'}
+2025-08-08 06:35:44,997 - INFO - Checking Hungry Cheetah...
+2025-08-08 06:35:44,997 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 06:35:45,497 - INFO - Found play count in song info (new format): 8274809
+2025-08-08 06:35:45,504 - INFO - Hungry Cheetah: Current count: 8274809, Last count: 8274809, Need update: True
+2025-08-08 06:35:45,506 - INFO - Successfully saved entry to CSV: {'play_count': '8274809', 'timestamp': '2025-08-08 12:05:44 IST'}
+2025-08-08 06:35:59,904 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5071.7 minutes
+2025-08-08 06:35:59,963 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4034.1 minutes
+2025-08-08 06:36:00,128 - INFO - 127.0.0.1 - - [08/Aug/2025 06:36:00] "GET / HTTP/1.1" 200 -
+2025-08-08 06:36:00,633 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5071.7 minutes
+2025-08-08 06:36:00,637 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4034.1 minutes
+2025-08-08 06:36:00,651 - INFO - 127.0.0.1 - - [08/Aug/2025 06:36:00] "GET / HTTP/1.1" 200 -
+2025-08-08 06:44:54,796 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5071.7 minutes
+2025-08-08 06:44:54,826 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4034.1 minutes
+2025-08-08 06:44:54,952 - INFO - 127.0.0.1 - - [08/Aug/2025 06:44:54] "GET / HTTP/1.1" 200 -
+2025-08-08 06:50:44,188 - INFO - Starting update check for all songs...
+2025-08-08 06:50:44,261 - INFO - Checking Firestorm...
+2025-08-08 06:50:44,266 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 06:50:45,433 - INFO - Found play count in album info: 490484
+2025-08-08 06:50:45,436 - INFO - Firestorm: Current count: 490484, Last count: 489196, Need update: True
+2025-08-08 06:50:45,446 - INFO - Successfully saved entry to CSV: {'play_count': '490484', 'timestamp': '2025-08-08 12:20:44 IST'}
+2025-08-08 06:50:45,447 - INFO - Checking Hungry Cheetah...
+2025-08-08 06:50:45,447 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 06:50:45,518 - INFO - Starting update check for all songs...
+2025-08-08 06:50:45,518 - INFO - Checking Firestorm...
+2025-08-08 06:50:45,519 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 06:50:46,171 - INFO - Found play count in song info (new format): 8275314
+2025-08-08 06:50:46,172 - INFO - Hungry Cheetah: Current count: 8275314, Last count: 8274809, Need update: True
+2025-08-08 06:50:46,173 - INFO - Successfully saved entry to CSV: {'play_count': '8275314', 'timestamp': '2025-08-08 12:20:44 IST'}
+2025-08-08 06:50:46,253 - INFO - Found play count in album info: 490484
+2025-08-08 06:50:46,254 - INFO - Firestorm: Current count: 490484, Last count: 489196, Need update: True
+2025-08-08 06:50:46,257 - INFO - Successfully saved entry to CSV: {'play_count': '490484', 'timestamp': '2025-08-08 12:20:45 IST'}
+2025-08-08 06:50:46,257 - INFO - Checking Hungry Cheetah...
+2025-08-08 06:50:46,258 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 06:50:46,594 - INFO - Found play count in song info (new format): 8275314
+2025-08-08 06:50:46,594 - INFO - Hungry Cheetah: Current count: 8275314, Last count: 8274809, Need update: True
+2025-08-08 06:50:46,594 - INFO - Successfully saved entry to CSV: {'play_count': '8275314', 'timestamp': '2025-08-08 12:20:45 IST'}
+2025-08-08 06:51:02,535 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5086.7 minutes
+2025-08-08 06:51:02,550 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4049.1 minutes
+2025-08-08 06:51:02,581 - INFO - 127.0.0.1 - - [08/Aug/2025 06:51:02] "GET / HTTP/1.1" 200 -
+2025-08-08 06:59:55,852 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5086.7 minutes
+2025-08-08 06:59:55,861 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4049.1 minutes
+2025-08-08 06:59:55,909 - INFO - 127.0.0.1 - - [08/Aug/2025 06:59:55] "GET / HTTP/1.1" 200 -
+2025-08-08 07:05:46,205 - INFO - Starting update check for all songs...
+2025-08-08 07:05:46,229 - INFO - Checking Firestorm...
+2025-08-08 07:05:46,230 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 07:05:46,600 - INFO - Starting update check for all songs...
+2025-08-08 07:05:46,601 - INFO - Checking Firestorm...
+2025-08-08 07:05:46,601 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 07:05:46,976 - INFO - Found play count in album info: 491920
+2025-08-08 07:05:46,979 - INFO - Firestorm: Current count: 491920, Last count: 490484, Need update: True
+2025-08-08 07:05:46,983 - INFO - Successfully saved entry to CSV: {'play_count': '491920', 'timestamp': '2025-08-08 12:35:46 IST'}
+2025-08-08 07:05:46,984 - INFO - Checking Hungry Cheetah...
+2025-08-08 07:05:46,984 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 07:05:47,155 - INFO - Found play count in album info: 491920
+2025-08-08 07:05:47,157 - INFO - Firestorm: Current count: 491920, Last count: 490484, Need update: True
+2025-08-08 07:05:47,158 - INFO - Successfully saved entry to CSV: {'play_count': '491920', 'timestamp': '2025-08-08 12:35:46 IST'}
+2025-08-08 07:05:47,158 - INFO - Checking Hungry Cheetah...
+2025-08-08 07:05:47,158 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 07:05:47,661 - INFO - Found play count in song info (new format): 8275708
+2025-08-08 07:05:47,663 - INFO - Hungry Cheetah: Current count: 8275708, Last count: 8275314, Need update: True
+2025-08-08 07:05:47,663 - INFO - Successfully saved entry to CSV: {'play_count': '8275708', 'timestamp': '2025-08-08 12:35:46 IST'}
+2025-08-08 07:05:47,696 - INFO - Found play count in song info (new format): 8275708
+2025-08-08 07:05:47,707 - INFO - Hungry Cheetah: Current count: 8275708, Last count: 8275314, Need update: True
+2025-08-08 07:05:47,707 - INFO - Successfully saved entry to CSV: {'play_count': '8275708', 'timestamp': '2025-08-08 12:35:46 IST'}
+2025-08-08 07:06:03,288 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5101.7 minutes
+2025-08-08 07:06:03,294 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4064.1 minutes
+2025-08-08 07:06:04,139 - INFO - 127.0.0.1 - - [08/Aug/2025 07:06:04] "GET / HTTP/1.1" 200 -
+2025-08-08 07:14:56,771 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5101.7 minutes
+2025-08-08 07:14:56,793 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4064.1 minutes
+2025-08-08 07:14:56,879 - INFO - 127.0.0.1 - - [08/Aug/2025 07:14:56] "GET / HTTP/1.1" 200 -
+2025-08-08 07:15:47,722 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5101.7 minutes
+2025-08-08 07:15:47,732 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4064.1 minutes
+2025-08-08 07:15:47,786 - INFO - 127.0.0.1 - - [08/Aug/2025 07:15:47] "GET / HTTP/1.1" 200 -
+2025-08-08 07:20:22,187 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5101.7 minutes
+2025-08-08 07:20:22,215 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4064.1 minutes
+2025-08-08 07:20:22,359 - INFO - 127.0.0.1 - - [08/Aug/2025 07:20:22] "GET / HTTP/1.1" 200 -
+2025-08-08 07:20:23,924 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5101.7 minutes
+2025-08-08 07:20:23,930 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4064.1 minutes
+2025-08-08 07:20:23,964 - INFO - 127.0.0.1 - - [08/Aug/2025 07:20:23] "GET / HTTP/1.1" 200 -
+2025-08-08 07:20:47,733 - INFO - Starting update check for all songs...
+2025-08-08 07:20:47,737 - INFO - Checking Firestorm...
+2025-08-08 07:20:47,738 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 07:20:47,747 - INFO - Starting update check for all songs...
+2025-08-08 07:20:47,791 - INFO - Checking Firestorm...
+2025-08-08 07:20:47,793 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 07:20:48,443 - INFO - Found play count in album info: 493201
+2025-08-08 07:20:48,445 - INFO - Firestorm: Current count: 493201, Last count: 491920, Need update: True
+2025-08-08 07:20:48,449 - INFO - Successfully saved entry to CSV: {'play_count': '493201', 'timestamp': '2025-08-08 12:50:47 IST'}
+2025-08-08 07:20:48,449 - INFO - Checking Hungry Cheetah...
+2025-08-08 07:20:48,449 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 07:20:48,545 - INFO - Found play count in album info: 493201
+2025-08-08 07:20:48,547 - INFO - Firestorm: Current count: 493201, Last count: 491920, Need update: True
+2025-08-08 07:20:48,552 - INFO - Successfully saved entry to CSV: {'play_count': '493201', 'timestamp': '2025-08-08 12:50:47 IST'}
+2025-08-08 07:20:48,552 - INFO - Checking Hungry Cheetah...
+2025-08-08 07:20:48,553 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 07:20:48,911 - INFO - Found play count in song info (new format): 8276083
+2025-08-08 07:20:48,912 - INFO - Hungry Cheetah: Current count: 8276083, Last count: 8275708, Need update: True
+2025-08-08 07:20:48,914 - INFO - Successfully saved entry to CSV: {'play_count': '8276083', 'timestamp': '2025-08-08 12:50:47 IST'}
+2025-08-08 07:20:49,036 - INFO - Found play count in song info (new format): 8276083
+2025-08-08 07:20:49,036 - INFO - Hungry Cheetah: Current count: 8276083, Last count: 8275708, Need update: True
+2025-08-08 07:20:49,037 - INFO - Successfully saved entry to CSV: {'play_count': '8276083', 'timestamp': '2025-08-08 12:50:47 IST'}
+2025-08-08 07:29:57,888 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5116.7 minutes
+2025-08-08 07:29:57,916 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4079.2 minutes
+2025-08-08 07:29:58,028 - INFO - 127.0.0.1 - - [08/Aug/2025 07:29:58] "GET / HTTP/1.1" 200 -
+2025-08-08 07:35:24,864 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5116.7 minutes
+2025-08-08 07:35:24,893 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4079.2 minutes
+2025-08-08 07:35:25,028 - INFO - 127.0.0.1 - - [08/Aug/2025 07:35:25] "GET / HTTP/1.1" 200 -
+2025-08-08 07:35:48,933 - INFO - Starting update check for all songs...
+2025-08-08 07:35:48,937 - INFO - Checking Firestorm...
+2025-08-08 07:35:48,938 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 07:35:49,101 - INFO - Starting update check for all songs...
+2025-08-08 07:35:49,152 - INFO - Checking Firestorm...
+2025-08-08 07:35:49,155 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/album/firestorm-from-they-call-him-og/yHG4eDZauLQ_
+2025-08-08 07:35:50,061 - INFO - Found play count in album info: 494500
+2025-08-08 07:35:50,063 - INFO - Firestorm: Current count: 494500, Last count: 493201, Need update: True
+2025-08-08 07:35:50,068 - INFO - Successfully saved entry to CSV: {'play_count': '494500', 'timestamp': '2025-08-08 13:05:48 IST'}
+2025-08-08 07:35:50,068 - INFO - Checking Hungry Cheetah...
+2025-08-08 07:35:50,068 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 07:35:50,297 - INFO - Found play count in album info: 494500
+2025-08-08 07:35:50,299 - INFO - Firestorm: Current count: 494500, Last count: 493201, Need update: True
+2025-08-08 07:35:50,302 - INFO - Successfully saved entry to CSV: {'play_count': '494500', 'timestamp': '2025-08-08 13:05:49 IST'}
+2025-08-08 07:35:50,302 - INFO - Checking Hungry Cheetah...
+2025-08-08 07:35:50,303 - INFO - Fetching play count from JioSaavn for https://www.jiosaavn.com/song/hungry-cheetah-from-they-call-him-og/OgQvaDxEbwE
+2025-08-08 07:35:50,569 - INFO - Found play count in song info (new format): 8276426
+2025-08-08 07:35:50,570 - INFO - Hungry Cheetah: Current count: 8276426, Last count: 8276083, Need update: True
+2025-08-08 07:35:50,572 - INFO - Successfully saved entry to CSV: {'play_count': '8276426', 'timestamp': '2025-08-08 13:05:48 IST'}
+2025-08-08 07:35:50,888 - INFO - Found play count in song info (new format): 8276426
+2025-08-08 07:35:50,888 - INFO - Hungry Cheetah: Current count: 8276426, Last count: 8276083, Need update: True
+2025-08-08 07:35:50,889 - INFO - Successfully saved entry to CSV: {'play_count': '8276426', 'timestamp': '2025-08-08 13:05:49 IST'}
+2025-08-08 07:44:59,293 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5131.8 minutes
+2025-08-08 07:44:59,326 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4094.2 minutes
+2025-08-08 07:44:59,566 - INFO - 127.0.0.1 - - [08/Aug/2025 07:44:59] "GET / HTTP/1.1" 200 -
+2025-08-08 07:50:26,269 - INFO - Calculated rate for Firestorm: 0.00 plays/minute over -5131.8 minutes
+2025-08-08 07:50:26,291 - INFO - Calculated rate for Hungry Cheetah: 0.00 plays/minute over -4094.2 minutes
+2025-08-08 07:50:26,385 - INFO - 127.0.0.1 - - [08/Aug/2025 07:50:26] "GET / HTTP/1.1" 200 -

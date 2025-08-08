@@ -1,0 +1,55 @@
+name: Update Play Counts
+
+on:
+  schedule:
+    - cron: '5 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: play-count-update
+  cancel-in-progress: true
+
+jobs:
+  update-counts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+            python -m pip install --upgrade pip
+            pip install requests beautifulsoup4 pytz
+
+      - name: Convert legacy CSV to JSON (idempotent)
+        run: |
+            python convert_csv_to_json.py || true
+
+      - name: Update play counts
+        id: update
+        run: |
+            python update_counts.py | tee run.log
+
+      - name: Show summary
+        if: always()
+        run: |
+            echo '--- Run Log (tail) ---'
+            tail -n 50 run.log || true
+            echo '--- Summary JSON ---'
+            cat stats_summary.json || true
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add firestorm_history.json hungry_cheetah_history.json stats_summary.json || true
+          git diff --cached --quiet || git commit -m "chore: hourly play count update" || true
+          git push || true
