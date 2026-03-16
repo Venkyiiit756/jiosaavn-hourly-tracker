@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-16 14:28:51 IST",
+  "generated_at": "2026-03-16 15:36:55 IST",
   "granularity": "hourly",
   "songs": {
     "firestorm": {
-      "current": 15251964,
-      "previous_hour": 15249855,
-      "hour_increase": 2109,
-      "previous_24h": 15224474,
-      "day_increase": 27490,
-      "entries": 4664
+      "current": 15253463,
+      "previous_hour": 15251964,
+      "hour_increase": 1499,
+      "previous_24h": 15226794,
+      "day_increase": 26669,
+      "entries": 4665
     },
     "hungry_cheetah": {
-      "current": 13205297,
-      "previous_hour": 13204355,
-      "hour_increase": 942,
-      "previous_24h": 13193280,
-      "day_increase": 12017,
-      "entries": 4662
+      "current": 13205863,
+      "previous_hour": 13205297,
+      "hour_increase": 566,
+      "previous_24h": 13194344,
+      "day_increase": 11519,
+      "entries": 4663
     }
   }
 }
